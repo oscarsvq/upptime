@@ -22,19 +22,19 @@
     "url": "https://soxyceaoztvcefnsxxmb.supabase.co/auth/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/soxyceaoztvcefnsxxmb.supabase.co.ico",
     "slug": "back-office-autenticacion",
-    "status": "down",
-    "uptime": "49.73%",
-    "uptimeDay": "49.73%",
-    "uptimeWeek": "49.73%",
-    "uptimeMonth": "49.73%",
-    "uptimeYear": "49.73%",
-    "time": 67,
-    "timeDay": 67,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "status": "up",
+    "uptime": "10.77%",
+    "uptimeDay": "10.77%",
+    "uptimeWeek": "10.77%",
+    "uptimeMonth": "10.77%",
+    "uptimeYear": "10.77%",
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {
-      "2026-10-11": 0
+      "2026-10-11": 2
     }
   },
   {
