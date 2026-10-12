@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 623,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
+    "time": 637,
+    "timeDay": 637,
+    "timeWeek": 637,
+    "timeMonth": 637,
+    "timeYear": 637,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/soxyceaoztvcefnsxxmb.supabase.co.ico",
     "slug": "back-office-autenticacion",
     "status": "up",
-    "uptime": "10.77%",
-    "uptimeDay": "10.77%",
-    "uptimeWeek": "10.77%",
-    "uptimeMonth": "10.77%",
-    "uptimeYear": "10.77%",
-    "time": 356,
-    "timeDay": 356,
-    "timeWeek": 356,
-    "timeMonth": 356,
-    "timeYear": 356,
-    "dailyMinutesDown": {
-      "2026-10-11": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 391,
+    "timeDay": 391,
+    "timeWeek": 391,
+    "timeMonth": 391,
+    "timeYear": 391,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Back office (salud interna)",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1768,
-    "timeDay": 1768,
-    "timeWeek": 1768,
-    "timeMonth": 1768,
-    "timeYear": 1768,
+    "time": 1424,
+    "timeDay": 1424,
+    "timeWeek": 1424,
+    "timeMonth": 1424,
+    "timeYear": 1424,
     "dailyMinutesDown": {}
   }
 ]
